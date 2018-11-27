@@ -1,1 +1,1 @@
-# This is going to be a game made in Ruby on Railsaaa
+# This is going to be a game made in Ruby on Rails
